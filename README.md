@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ayushgautam78
 - 👀 I’m interested in ...music and coding
-- 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...with no one
+- 🌱 I’m currently learning ...web dev
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me ...ayushgautam174@gmail.com
 
 <!---
